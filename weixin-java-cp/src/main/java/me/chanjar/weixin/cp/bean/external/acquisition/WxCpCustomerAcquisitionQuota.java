@@ -7,6 +7,8 @@ import me.chanjar.weixin.cp.bean.WxCpBaseResp;
 import me.chanjar.weixin.cp.util.json.WxCpGsonBuilder;
 
 /**
+ * 剩余使用量
+ *
  * @author alien_zyl
  */
 @Data

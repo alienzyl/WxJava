@@ -5,6 +5,8 @@ import lombok.Data;
 import me.chanjar.weixin.cp.util.json.WxCpGsonBuilder;
 
 /**
+ * 创建/更新获客链接请求体
+ *
  * @author alien_zyl
  */
 @Data

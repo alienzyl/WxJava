@@ -6,6 +6,8 @@ import me.chanjar.weixin.cp.bean.WxCpBaseResp;
 import me.chanjar.weixin.cp.util.json.WxCpGsonBuilder;
 
 /**
+ * 创建获客助手链接结果
+ *
  * @author alien_zyl
  */
 @Data

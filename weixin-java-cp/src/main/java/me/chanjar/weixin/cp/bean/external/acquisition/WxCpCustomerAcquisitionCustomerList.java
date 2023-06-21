@@ -8,6 +8,8 @@ import java.io.Serializable;
 import java.util.List;
 
 /**
+ * 获取由获客链接添加的客户信息结果
+ *
  * @author alien_zyl
  */
 @Data

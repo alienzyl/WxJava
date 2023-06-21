@@ -10,6 +10,8 @@ import java.io.Serializable;
 import java.util.List;
 
 /**
+ * 获客链接列表
+ *
  * @author alien_zyl
  */
 @Data
